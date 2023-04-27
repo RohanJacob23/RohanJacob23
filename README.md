@@ -7,7 +7,7 @@ I'm a Freelance Web Developer
 I'm a college student who is a web developer. With a passion for coding and creating visually appealing designs, I spends most of my time tinkering with JavaScript, React and Nextjs to build websites and web applications.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://https://rohan-jacob-portfolio.vercel.app)
+* 🖥️  See my portfolio at [MyPortfolio](https://rohan-jacob-portfolio.vercel.app)
 * ✉️  You can contact me at [rohankoshyjacob@gmail.com](mailto:rohankoshyjacob@gmail.com)
 * 🧠  I'm learning Open Source Contribution
 * 🤝  I'm open to collaborating on Web based projects
